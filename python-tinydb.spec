@@ -7,7 +7,7 @@
 Summary:	Lightweight document oriented database
 Name:		python-%{module}
 Version:	3.15.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://files.pythonhosted.org/packages/source/t/tinydb/%{module}-%{version}.tar.gz
